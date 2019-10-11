@@ -1,1 +1,1 @@
-#[About me](https://anitajd.github.io/)
+[About me](https://anitajd.github.io/)
